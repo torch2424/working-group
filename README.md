@@ -3,6 +3,8 @@
 
 A repo for discussions, goals, roadmaps, assets, and other things related to the AssemblyScript project.
 
+If this is not what you were looking for, please see the [main AssemblyScript repo here](https://github.com/AssemblyScript/assemblyscript). Where you can also find how to sponsor the project.
+
 # Status
 
 Currently this a Work in Progress. Please take a look in the "issues" tab to join discussions, and help with ideas and things. Feel free to open new issues with questions of discussion points on the overall project. We also have a slack for day-to-day discussions.
@@ -31,7 +33,7 @@ To contact the core team: feel free to reach out to members individually, or con
 
 ![Daniel Wirtz Avatar](https://avatars0.githubusercontent.com/u/1136893?s=150&v=4)
 
-[Github](https://github.com/dcodeIO) [Website](https://dcode.io/)
+[Github](https://github.com/dcodeIO) | [Website](https://dcode.io/)
 
 Author/Creator of AssemblyScript. Significant contributor to the [AssemblyScript Compiler](https://github.com/AssemblyScript/assemblyscript), as well as other AssemblyScript related projects.
 
@@ -39,7 +41,7 @@ Author/Creator of AssemblyScript. Significant contributor to the [AssemblyScript
 
 ![Max Graey Avatar](https://avatars0.githubusercontent.com/u/1301959?s=150&v=4)
 
-[Github](https://github.com/MaxGraey) [Twitter](https://twitter.com/MaxGraey)
+[Github](https://github.com/MaxGraey) | [Twitter](https://twitter.com/MaxGraey)
 
 Significant contributor to the [AssemblyScript Compiler](https://github.com/AssemblyScript/assemblyscript), as well as other AssemblyScript related projects.
 
@@ -47,7 +49,7 @@ Significant contributor to the [AssemblyScript Compiler](https://github.com/Asse
 
 ![Aaron Turner Avatar](https://avatars0.githubusercontent.com/u/1448289?s=150&v=4)
 
-[Github](https://github.com/torch2424) [Website](https://aaronthedev.com/)
+[Github](https://github.com/torch2424) | [Website](https://aaronthedev.com/)
 
 Creator of: 
 
