@@ -29,7 +29,7 @@ To contact the core team: feel free to reach out to members individually, or con
 
 ## Daniel Wirtz
 
-![Daniel Wirtz Avatar](https://avatars0.githubusercontent.com/u/1136893?s=200&v=4)
+![Daniel Wirtz Avatar](https://avatars0.githubusercontent.com/u/1136893?s=150&v=4)
 
 [Github](https://github.com/dcodeIO) [Website](https://dcode.io/)
 
@@ -37,7 +37,7 @@ Author/Creator of AssemblyScript. Significant contributor to the [AssemblyScript
 
 ## Max Graey
 
-![Max Graey Avatar](https://avatars0.githubusercontent.com/u/1301959?s=200&v=4)
+![Max Graey Avatar](https://avatars0.githubusercontent.com/u/1301959?s=150&v=4)
 
 [Github](https://github.com/MaxGraey) [Twitter](https://twitter.com/MaxGraey)
 
@@ -45,7 +45,7 @@ Significant contributor to the [AssemblyScript Compiler](https://github.com/Asse
 
 ## Aaron Turner
 
-![Aaron Turner Avatar](https://avatars0.githubusercontent.com/u/1448289?s=200&v=4)
+![Aaron Turner Avatar](https://avatars0.githubusercontent.com/u/1448289?s=150&v=4)
 
 [Github](https://github.com/torch2424) [Website](https://aaronthedev.com/)
 
@@ -59,8 +59,6 @@ Creator of:
 Does general Evangelism for the project, including [talks](https://youtu.be/ZlL1nduatZQ) and [articles](https://medium.com/@torch2424/webassembly-is-fast-a-real-world-benchmark-of-webassembly-vs-es6-d85a23f8e193).
 
 ## Joshua Tenner
-
-![Joshua Tenner Avatar](https://avatars2.githubusercontent.com/u/3761339?s=200&v=4)
 
 [Github](https://github.com/jtenner)
 
