@@ -13,23 +13,27 @@ Currently this a Work in Progress. Please take a look in the "issues" tab to joi
 
 The current goals of the AssemblyScript project are:
 
-* Support the "latest and greatest" features added into WebAssembly.
+* Target feature parity with WebAssembly and related technology.
 
-* Focus on developer experience, and try to be a great language for new and existing web developers. 
+* Stay as close to TypeScript syntax and JavaScript APIs as reasonable.
+
+* Support non-browser use cases well (i.e. serverless, blockchain, etc...).
 
 * Compliment current web projects, and support building WebAssembly modules "from scratch". By offering "fine-grain" control to developers.
 
-* Create tools and projects to align with popular WebAssembly platforms (web browsers, serverless, blockchain, etc...).
+* Focus on developer experience, and try to be a great language for new and existing web developers. 
 
-* Preserve a **lightweight** runtime, and utilize platform APIs as they are added to accomplish high-level features.
+# Team
 
-# Core Team
+Currently a WIP.
+
+## Core
 
 The "core team" are active members of the project trying to help the project (and its communitty) grow and be the best it can be. Thet being said, All contributors are welcome, and very much appreciated. If you plan to / have already made significant contributions to the project (either in code, maintenance, evangelism, etc..) please feel free to open an issue to request to join!
 
 To contact the core team: feel free to reach out to members individually, or contact this email address: TODO.
 
-## Daniel Wirtz
+### Daniel Wirtz
 
 ![Daniel Wirtz Avatar](https://avatars0.githubusercontent.com/u/1136893?s=150&v=4)
 
@@ -37,7 +41,7 @@ To contact the core team: feel free to reach out to members individually, or con
 
 Author/Creator of AssemblyScript. Significant contributor to the [AssemblyScript Compiler](https://github.com/AssemblyScript/assemblyscript), as well as other AssemblyScript related projects.
 
-## Max Graey
+### Max Graey
 
 ![Max Graey Avatar](https://avatars0.githubusercontent.com/u/1301959?s=150&v=4)
 
@@ -45,7 +49,7 @@ Author/Creator of AssemblyScript. Significant contributor to the [AssemblyScript
 
 Significant contributor to the [AssemblyScript Compiler](https://github.com/AssemblyScript/assemblyscript), as well as other AssemblyScript related projects.
 
-## Aaron Turner
+### Aaron Turner
 
 ![Aaron Turner Avatar](https://avatars0.githubusercontent.com/u/1448289?s=150&v=4)
 
@@ -60,7 +64,7 @@ Creator of:
 
 Does general Evangelism for the project, including [talks](https://youtu.be/ZlL1nduatZQ) and [articles](https://medium.com/@torch2424/webassembly-is-fast-a-real-world-benchmark-of-webassembly-vs-es6-d85a23f8e193).
 
-## Joshua Tenner
+### Joshua Tenner
 
 [Github](https://github.com/jtenner)
 
@@ -70,3 +74,7 @@ Creator of:
 * [as2d](https://github.com/as2d/as2d)
 
 Creates tools and libraries for the project ecosystem (such as testing), as well as evangelism through [articles](https://dev.to/jtenner/an-assemblyscript-primer-for-typescript-developers-lf1).
+
+## Maintainers
+
+TODO
