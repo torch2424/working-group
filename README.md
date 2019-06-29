@@ -5,9 +5,20 @@ A repo for discussions, goals, roadmaps, assets, and other things related to the
 
 If this is not what you were looking for, please see the [main AssemblyScript repo here](https://github.com/AssemblyScript/assemblyscript). Where you can also find how to sponsor the project.
 
-# Status
+# Table of Contents
 
-Currently this a Work in Progress. Please take a look in the "issues" tab to join discussions, and help with ideas and things. Feel free to open new issues with questions of discussion points on the overall project. We also have a slack for day-to-day discussions.
+* [Goals](#goals)
+* [Core Team](#core-team)
+  * [Daniel Wirtz](#daniel-wirtz)
+  * [Max Graey](#max-graey)
+  * [Aaron Turner](#aaron-turner)
+  * [Joshua Tenner](#joshua-tenner)
+  * [William Neal](#william-neal)
+* [Distinguished Contributors](#distinguished-contributors)
+  * [Nidin Vinayakan](#nidin-vinayakan)
+* [Governance](#governance)
+  * [Technical Decisions](#technical-decisions)
+  * [Organizational Decisions:](#organizational-decisions)
 
 # Goals
 
@@ -23,15 +34,11 @@ The current goals of the AssemblyScript project are:
 
 * Focus on developer experience, and try to be a great language for new and existing web developers. 
 
-# Team
+# Core Team
 
-Currently a WIP.
+The "core team" are active members of the project trying to help the project (and its communitty) grow and be the best it can be. That being said, All contributors are welcome, and very much appreciated. If you have already / plan to continue making significant contributions to the project (either in code, maintenance, evangelism, etc..) please feel free to open an issue to request to join!
 
-## Core
-
-The "core team" are active members of the project trying to help the project (and its communitty) grow and be the best it can be. Thet being said, All contributors are welcome, and very much appreciated. If you plan to / have already made significant contributions to the project (either in code, maintenance, evangelism, etc..) please feel free to open an issue to request to join!
-
-To contact the core team: feel free to reach out to members individually, or contact this email address: TODO.
+To contact the core team: feel free to reach out to members individually. An email alias for the core team is planned to be created soon.
 
 ### Daniel Wirtz
 
@@ -75,6 +82,36 @@ Creator of:
 
 Creates tools and libraries for the project ecosystem (such as testing), as well as evangelism through [articles](https://dev.to/jtenner/an-assemblyscript-primer-for-typescript-developers-lf1).
 
-## Maintainers
+### William Neal
 
-TODO
+[Github](https://github.com/willemneal)
+
+Evangelizes the AssemblyScript project with [educational content](http://www.cs.umd.edu/class/spring2019/cmsc388I/assemblyscript.html), as well as helps with contributions to surrounding tooling.
+
+# Distinguished Contributors
+
+Distinguished contributors are contributors who have done significant work for the project, but are not involved with the AssemblyScript project directly. That being said, All contributors are welcome, and very much appreciated. If you have made significant contributions to the project (either in code, maintenance, evangelism, etc..) please feel free to open an issue and be highlighted here!
+
+### Nidin Vinayakan
+
+![Nidin Vinayakan Avatar](https://avatars0.githubusercontent.com/u/1301959?s=150&v=4)
+
+[Github](https://github.com/nidin) | [Twitter](https://twitter.com/01alchemist)
+
+Does general evangelism, and creates surrounding projects, for the AssemblyScript project. For example, [talks](https://youtu.be/jCRjHMB1oDY)
+
+# Governance
+
+Following the [definitions described in opensource.guide](https://opensource.guide/leadership-and-governance/#what-are-some-of-the-common-governance-structures-for-open-source-projects). The Governance for the project is split into two parts:
+
+## Technical Decisions
+
+Technical Decisions can be interpreted as contributions being made to projects in the AssemblyScript Github Org.
+
+For this, we will be following BDFL. Daniel Wirtz (@dcodeIO) is the designated lead.
+
+## Organizational Decisions:
+
+Organizational Descisions can be interpreted as contributions to the general project direction, goals, roadmap, maintainers, etc...
+
+For this, we will be following Liberal contribution. Where consensus will be requested on issues opened on this repo to get a communitty vote, and can find a path going forward.
