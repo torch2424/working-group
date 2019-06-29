@@ -14,6 +14,7 @@ If this is not what you were looking for, please see the [main AssemblyScript re
   * [Aaron Turner](#aaron-turner)
   * [Joshua Tenner](#joshua-tenner)
   * [William Neal](#william-neal)
+  * [Bowen Wang](#bowen-wang)
 * [Distinguished Contributors](#distinguished-contributors)
   * [Nidin Vinayakan](#nidin-vinayakan)
 * [Governance](#governance)
@@ -25,8 +26,6 @@ If this is not what you were looking for, please see the [main AssemblyScript re
 The current goals of the AssemblyScript project are:
 
 * Target feature parity with WebAssembly and related technology.
-
-* Stay as close to TypeScript syntax and JavaScript APIs as reasonable.
 
 * Support non-browser use cases well (i.e. serverless, blockchain, etc...).
 
@@ -84,9 +83,17 @@ Creates tools and libraries for the project ecosystem (such as testing), as well
 
 ### William Neal
 
-[Github](https://github.com/willemneal)
+![William Neal Avatar](https://avatars0.githubusercontent.com/u/1483244?s=150&v=4)
+
+[Github](https://github.com/bowenwang1996)
 
 Evangelizes the AssemblyScript project with [educational content](http://www.cs.umd.edu/class/spring2019/cmsc388I/assemblyscript.html), as well as helps with contributions to surrounding tooling.
+
+### Bowen Wang
+
+[Github](https://github.com/bowenwang1996)
+
+Developer at [Near](https://nearprotocol.com/), as well as maintains a smart contract [library for AssemblyScript](https://github.com/nearprotocol/near-runtime-ts).
 
 # Distinguished Contributors
 
