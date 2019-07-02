@@ -13,7 +13,7 @@ If this is not what you were looking for, please see the [main AssemblyScript re
   * [Max Graey](#max-graey)
   * [Aaron Turner](#aaron-turner)
   * [Joshua Tenner](#joshua-tenner)
-  * [William Neal](#william-neal)
+  * [Willem Wyndham](#willem-wyndham)
   * [Bowen Wang](#bowen-wang)
 * [Distinguished Contributors](#distinguished-contributors)
   * [Nidin Vinayakan](#nidin-vinayakan)
@@ -28,6 +28,8 @@ The current goals of the AssemblyScript project are:
 * Target feature parity with WebAssembly and related technology.
 
 * Support non-browser use cases well (i.e. serverless, blockchain, etc...).
+
+* Stay backwards-compatible to TypeScript syntax and JavaScript APIs as much as possible and reasonable.
 
 * Compliment current web projects, and support building WebAssembly modules "from scratch". By offering "fine-grain" control to developers.
 
@@ -53,7 +55,7 @@ Author/Creator of AssemblyScript. Significant contributor to the [AssemblyScript
 
 [Github](https://github.com/MaxGraey) | [Twitter](https://twitter.com/MaxGraey)
 
-Significant contributor to the [AssemblyScript Compiler](https://github.com/AssemblyScript/assemblyscript), as well as other AssemblyScript related projects.
+Significant contributor to the [AssemblyScript Compiler](https://github.com/AssemblyScript/assemblyscript), specificlly the standard library, as well as other AssemblyScript related projects.
 
 ### Aaron Turner
 
@@ -81,11 +83,11 @@ Creator of:
 
 Creates tools and libraries for the project ecosystem (such as testing), as well as evangelism through [articles](https://dev.to/jtenner/an-assemblyscript-primer-for-typescript-developers-lf1).
 
-### William Neal
+### Willem Wyndham
 
-![William Neal Avatar](https://avatars0.githubusercontent.com/u/1483244?s=150&v=4)
+![Willem Wyndham Avatar](https://avatars0.githubusercontent.com/u/1483244?s=150&v=4)
 
-[Github](https://github.com/bowenwang1996)
+[Github](https://github.com/willemneal)
 
 Evangelizes the AssemblyScript project with [educational content](http://www.cs.umd.edu/class/spring2019/cmsc388I/assemblyscript.html), as well as helps with contributions to surrounding tooling.
 
