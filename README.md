@@ -17,7 +17,7 @@ If this is not what you were looking for, please see the [main AssemblyScript re
       * [Max Graey](#max-graey)
       * [Bowen Wang](#bowen-wang)
       * [Joshua Tenner](#joshua-tenner)
-    * [Evangelism](#evangelism)
+    * [Advocate](#advocate)
       * [Aaron Turner](#aaron-turner)
       * [Joshua Tenner](#joshua-tenner)
       * [Willem Wyndham](#willem-wyndham)
@@ -102,9 +102,9 @@ Notable Projects:
 
 [Github](https://github.com/jtenner)
 
-### Evangelism
+### Advocate
 
-The "Evangelism" team works on projects, demos, talks, giving feedback on "messaging" about the project, and writing articles to help grow popularity and improve outreach.
+The "Advocate" team works on projects, demos, talks, giving feedback on "messaging" about the project, and writing articles to help grow popularity and improve outreach.
 
 #### Aaron Turner
 
