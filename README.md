@@ -16,6 +16,7 @@ If this is not what you were looking for, please see the [main AssemblyScript re
       * [Daniel Wirtz](#daniel-wirtz)
       * [Max Graey](#max-graey)
       * [Bowen Wang](#bowen-wang)
+      * [Joshua Tenner](#joshua-tenner)
     * [Evangelism](#evangelism)
       * [Aaron Turner](#aaron-turner)
       * [Joshua Tenner](#joshua-tenner)
@@ -35,7 +36,7 @@ The current goals of the AssemblyScript project are:
 
 * Stay backwards-compatible to TypeScript syntax and JavaScript APIs as much as possible and reasonable.
 
-* Compliment current web projects, and support building WebAssembly modules "from scratch". By offering "fine-grain" control to developers.
+* Complement current web projects, and support building WebAssembly modules "from scratch". By offering "fine-grain" control to developers.
 
 * Focus on developer experience, and try to be a great language for new and existing web developers. 
 
@@ -96,6 +97,10 @@ Notable Projects:
 * Developer at [Near](https://nearprotocol.com/)
 
 * [Smart Contract Library for AssemblyScript](https://github.com/nearprotocol/near-runtime-ts)
+
+#### Joshua Tenner
+
+[Github](https://github.com/jtenner)
 
 ### Evangelism
 
