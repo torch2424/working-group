@@ -17,6 +17,7 @@ If this is not what you were looking for, please see the [main AssemblyScript re
       * [Max Graey](#max-graey)
       * [Bowen Wang](#bowen-wang)
       * [Joshua Tenner](#joshua-tenner)
+      * [Duncan Uszkay](#duncan-uszkay)
     * [Advocate](#advocate)
       * [Aaron Turner](#aaron-turner)
       * [Joshua Tenner](#joshua-tenner)
@@ -101,6 +102,16 @@ Notable Projects:
 #### Joshua Tenner
 
 [Github](https://github.com/jtenner)
+
+#### Duncan Uszkay 
+
+![Duncan Uszkay Avatar](https://avatars2.githubusercontent.com/u/8670351?s=150&v=4)
+
+[Github](https://github.com/DuncanUszkay1)
+
+Notable Projects:
+
+* Developer at [Shopify](https://www.shopify.com/)
 
 ### Advocate
 
