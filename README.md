@@ -1,31 +1,35 @@
-![AssemblyScript Logo](https://avatars1.githubusercontent.com/u/28916798?s=64) AssemblyScript "meta"
+![AssemblyScript Logo](https://avatars1.githubusercontent.com/u/28916798?s=64) AssemblyScript Working Group
 =================
 
 A repo for discussions, goals, roadmaps, assets, and other things related to the AssemblyScript project.
 
-If this is not what you were looking for, please see the [main AssemblyScript repo here](https://github.com/AssemblyScript/assemblyscript). Where you can also find how to sponsor the project.
+If you are looking for the AssemblyScript compiler, please see the [main AssemblyScript repo here](https://github.com/AssemblyScript/assemblyscript). Where you can also **find how to sponsor the project**.
 
 # Table of Contents
 
 * [Goals](#goals)
-* [Governance](#governance)
-  * [Technical Decisions](#technical-decisions)
-  * [Organizational Decisions](#organizational-decisions)
-  * [Teams](#teams)
-    * [Compiler](#compiler)
-      * [Daniel Wirtz](#daniel-wirtz)
-      * [Max Graey](#max-graey)
-      * [Bowen Wang](#bowen-wang)
-      * [Joshua Tenner](#joshua-tenner)
-      * [Duncan Uszkay](#duncan-uszkay)
-    * [Advocate](#advocate)
-      * [Aaron Turner](#aaron-turner)
-      * [Joshua Tenner](#joshua-tenner)
-      * [Willem Wyndham](#willem-wyndham)
-    * [Developer Experience](#developer-experience)
-      * [Joshua Tenner](#joshua-tenner-1)
-      * [Willem Wyndham](#willem-wyndham-1)
-      * [Bowen Wang](#bowen-wang-1)
+   * [Governance](#governance)
+      * [Technical Decisions](#technical-decisions)
+      * [Organizational Decisions](#organizational-decisions)
+   * [Groups](#groups)
+      * [Working Group](#working-group)
+      * [Communitty Group](#communitty-group)
+   * [Teams](#teams)
+      * [Compiler](#compiler)
+         * [Daniel Wirtz](#daniel-wirtz)
+         * [Max Graey](#max-graey)
+         * [Bowen Wang](#bowen-wang)
+         * [Joshua Tenner](#joshua-tenner)
+         * [Duncan Uszkay](#duncan-uszkay)
+      * [Advocate](#advocate)
+         * [Aaron Turner](#aaron-turner)
+         * [Joshua Tenner](#joshua-tenner-1)
+         * [Willem Wyndham](#willem-wyndham)
+      * [Developer Experience](#developer-experience)
+         * [Joshua Tenner](#joshua-tenner-2)
+         * [Willem Wyndham](#willem-wyndham-1)
+         * [Bowen Wang](#bowen-wang-1)
+   * [Getting Involved](#getting-involved)
 
 # Goals
 
@@ -57,7 +61,21 @@ Organizational Descisions can be interpreted as contributions to the general pro
 
 For this, we will be following a meritocracy. Where consensus will be requested on issues opened on this repo to get a community vote, and can find a path going forward.
 
-## Teams
+# Groups
+
+The AssemblyScript project has meetings and and correspondance divided into groups. These groups communicate and work together very closely, and provides a way for focused discussions for those who need that.
+
+## Working Group
+
+The working group is for those who would like to contribute to the project directly. Whether that be through getting advice on technical implementations, showing off a new tool they are building, or just generally talking about the AssemblyScript project and where it is headed.
+
+**Anyone working on anything related to the AssemblyScript project is welcome to participate in the Working Group!**
+
+## Communitty Group
+
+The [community group](https://github.com/AssemblyScript/community-group) is for those who would like to discuss with other communitty members (other than the Working Group) using AssemblyScript in their applications. The goal being that they can prioritize their core feature requests and use cases and communicate that to the working group. Which can help reduce duplicating efforts amongst the communitty, and allow the communitty to be collectively more productive!
+
+# Teams
 
 The AssemblyScript project members is divided into teams. The teams make design, architectural, and new-membership decisions for their relevant domains and repositories by consensus. If consensus can't be made, then the Compiler team (specifically @dcodeIO) may act as a tie-breaker. 
 
@@ -71,11 +89,11 @@ The AssemblyScript project members is divided into teams. The teams make design,
 
 * Membership does not grant commit access to a repository. Commit access should be handled by the author of the repository, or by consensus of the respective team.
 
-### Compiler
+## Compiler
 
 The "Compiler" team works on the AssemblyScript compiler and its standard library. Mostly, under the [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) repository.
 
-#### Daniel Wirtz
+### Daniel Wirtz
 
 ![Daniel Wirtz Avatar](https://avatars0.githubusercontent.com/u/1136893?s=150&v=4)
 
@@ -83,13 +101,13 @@ The "Compiler" team works on the AssemblyScript compiler and its standard librar
 
 **Author/Creator of AssemblyScript.**
 
-#### Max Graey
+### Max Graey
 
 ![Max Graey Avatar](https://avatars0.githubusercontent.com/u/1301959?s=150&v=4)
 
 [Github](https://github.com/MaxGraey) | [Twitter](https://twitter.com/MaxGraey)
 
-#### Bowen Wang
+### Bowen Wang
 
 [Github](https://github.com/bowenwang1996)
 
@@ -99,11 +117,11 @@ Notable Projects:
 
 * [Smart Contract Library for AssemblyScript](https://github.com/nearprotocol/near-runtime-ts)
 
-#### Joshua Tenner
+### Joshua Tenner
 
 [Github](https://github.com/jtenner)
 
-#### Duncan Uszkay 
+### Duncan Uszkay 
 
 ![Duncan Uszkay Avatar](https://avatars2.githubusercontent.com/u/8670351?s=150&v=4)
 
@@ -113,11 +131,11 @@ Notable Projects:
 
 * Developer at [Shopify](https://www.shopify.com/)
 
-### Advocate
+## Advocate
 
 The "Advocate" team works on projects, demos, talks, giving feedback on "messaging" about the project, and writing articles to help grow popularity and improve outreach.
 
-#### Aaron Turner
+### Aaron Turner
 
 ![Aaron Turner Avatar](https://avatars0.githubusercontent.com/u/1448289?s=150&v=4)
 
@@ -138,7 +156,7 @@ Notable Articles:
 
 * [Benchmark of WebAssembly vs ES6](https://medium.com/@torch2424/webassembly-is-fast-a-real-world-benchmark-of-webassembly-vs-es6-d85a23f8e193)
 
-#### Joshua Tenner
+### Joshua Tenner
 
 [Github](https://github.com/jtenner)
 
@@ -151,7 +169,7 @@ Notable Articles:
 
 * [An AssemblyScript Primer for TypeScript Developers](https://dev.to/jtenner/an-assemblyscript-primer-for-typescript-developers-lf1)
 
-#### Willem Wyndham
+### Willem Wyndham
 
 ![Willem Wyndham Avatar](https://avatars0.githubusercontent.com/u/1483244?s=150&v=4)
 
@@ -162,12 +180,12 @@ Notable Projects:
 * [AssemblyScript University Course](http://www.cs.umd.edu/class/spring2019/cmsc388I/assemblyscript.html)
 * Contributor to [as-pect](https://github.com/jtenner/as-pect)
 
-### Developer Experience
+## Developer Experience
 
 The "Developer Experience" team works on projects such as tools, or anything that helps people be productive with AssemblyScript.
 
 
-#### Joshua Tenner
+### Joshua Tenner
 
 [Github](https://github.com/jtenner)
 
@@ -180,7 +198,7 @@ Notable Articles:
 
 * [An AssemblyScript Primer for TypeScript Developers](https://dev.to/jtenner/an-assemblyscript-primer-for-typescript-developers-lf1)
 
-#### Willem Wyndham
+### Willem Wyndham
 
 ![Willem Wyndham Avatar](https://avatars0.githubusercontent.com/u/1483244?s=150&v=4)
 
@@ -191,7 +209,7 @@ Notable Projects:
 * [AssemblyScript University Course](http://www.cs.umd.edu/class/spring2019/cmsc388I/assemblyscript.html)
 * Contributor to [as-pect](https://github.com/jtenner/as-pect)
 
-#### Bowen Wang
+### Bowen Wang
 
 [Github](https://github.com/bowenwang1996)
 
@@ -200,3 +218,13 @@ Notable Projects:
 * Developer at [Near](https://nearprotocol.com/)
 
 * [Smart Contract Library for AssemblyScript](https://github.com/nearprotocol/near-runtime-ts)
+
+# Getting Involved
+
+We're happy to help you get involved! Currently, there are a few things you could do to start getting involved with the working group:
+
+* Reach out to a team member, and get invited to the AssemblyScript slack.
+
+* Join one of our [upcoming public meetings](https://github.com/AssemblyScript/working-group/issues?q=is%3Aissue+is%3Aopen+public+meeting).
+
+* Open an issue on the [working-group issues](https://github.com/AssemblyScript/working-group/issues), or any of the [AssemblyScript repositories](https://github.com/AssemblyScript).
