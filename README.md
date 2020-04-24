@@ -8,28 +8,17 @@ If you are looking for the AssemblyScript compiler, please see the [main Assembl
 # Table of Contents
 
 * [Goals](#goals)
-   * [Governance](#governance)
-      * [Technical Decisions](#technical-decisions)
-      * [Organizational Decisions](#organizational-decisions)
-   * [Groups](#groups)
-      * [Working Group](#working-group)
-      * [Communitty Group](#communitty-group)
-   * [Teams](#teams)
-      * [Compiler](#compiler)
-         * [Daniel Wirtz](#daniel-wirtz)
-         * [Max Graey](#max-graey)
-         * [Bowen Wang](#bowen-wang)
-         * [Joshua Tenner](#joshua-tenner)
-         * [Duncan Uszkay](#duncan-uszkay)
-      * [Advocate](#advocate)
-         * [Aaron Turner](#aaron-turner)
-         * [Joshua Tenner](#joshua-tenner-1)
-         * [Willem Wyndham](#willem-wyndham)
-      * [Developer Experience](#developer-experience)
-         * [Joshua Tenner](#joshua-tenner-2)
-         * [Willem Wyndham](#willem-wyndham-1)
-         * [Bowen Wang](#bowen-wang-1)
-   * [Getting Involved](#getting-involved)
+* [Governance](#governance)
+  * [Technical Decisions](#technical-decisions)
+  * [Organizational Decisions](#organizational-decisions)
+* [Groups](#groups)
+  * [Working Group](#working-group)
+  * [Communitty Group](#communitty-group)
+* [Teams](#teams)
+  * [Compiler](#compiler)
+  * [Advocate](#advocate)
+  * [Developer Experience](#developer-experience)
+* [Getting Involved](#getting-involved)
 
 # Goals
 
@@ -73,7 +62,7 @@ The working group is for those who would like to contribute to the project direc
 
 ## Communitty Group
 
-The [community group](https://github.com/AssemblyScript/community-group) is for those who would like to discuss with other communitty members (other than the Working Group) using AssemblyScript in their applications. The goal being that they can prioritize their core feature requests and use cases and communicate that to the working group. Which can help reduce duplicating efforts amongst the communitty, and allow the communitty to be collectively more productive!
+The [community group](https://github.com/AssemblyScript/community-group) is for those who would like to discuss with other communitty members (including members of the working group) using AssemblyScript in their applications. The goal being that they can prioritize their core feature requests and use cases and communicate that to the working group. Which can help reduce duplicating efforts amongst the communitty, and allow the communitty to be collectively more productive!
 
 # Teams
 
@@ -93,21 +82,21 @@ The AssemblyScript project members is divided into teams. The teams make design,
 
 The "Compiler" team works on the AssemblyScript compiler and its standard library. Mostly, under the [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) repository.
 
-### Daniel Wirtz
+**Daniel Wirtz**
 
 ![Daniel Wirtz Avatar](https://avatars0.githubusercontent.com/u/1136893?s=150&v=4)
 
+Author/Creator of AssemblyScript.
+
 [Github](https://github.com/dcodeIO) | [Website](https://dcode.io/)
 
-**Author/Creator of AssemblyScript.**
-
-### Max Graey
+**Max Graey**
 
 ![Max Graey Avatar](https://avatars0.githubusercontent.com/u/1301959?s=150&v=4)
 
 [Github](https://github.com/MaxGraey) | [Twitter](https://twitter.com/MaxGraey)
 
-### Bowen Wang
+**Bowen Wang**
 
 [Github](https://github.com/bowenwang1996)
 
@@ -117,11 +106,11 @@ Notable Projects:
 
 * [Smart Contract Library for AssemblyScript](https://github.com/nearprotocol/near-runtime-ts)
 
-### Joshua Tenner
+**Joshua Tenner**
 
 [Github](https://github.com/jtenner)
 
-### Duncan Uszkay 
+**Duncan Uszkay** 
 
 ![Duncan Uszkay Avatar](https://avatars2.githubusercontent.com/u/8670351?s=150&v=4)
 
@@ -135,7 +124,7 @@ Notable Projects:
 
 The "Advocate" team works on projects, demos, talks, giving feedback on "messaging" about the project, and writing articles to help grow popularity and improve outreach.
 
-### Aaron Turner
+**Aaron Turner**
 
 ![Aaron Turner Avatar](https://avatars0.githubusercontent.com/u/1448289?s=150&v=4)
 
@@ -156,7 +145,7 @@ Notable Articles:
 
 * [Benchmark of WebAssembly vs ES6](https://medium.com/@torch2424/webassembly-is-fast-a-real-world-benchmark-of-webassembly-vs-es6-d85a23f8e193)
 
-### Joshua Tenner
+**Joshua Tenner**
 
 [Github](https://github.com/jtenner)
 
@@ -169,7 +158,7 @@ Notable Articles:
 
 * [An AssemblyScript Primer for TypeScript Developers](https://dev.to/jtenner/an-assemblyscript-primer-for-typescript-developers-lf1)
 
-### Willem Wyndham
+**Willem Wyndham**
 
 ![Willem Wyndham Avatar](https://avatars0.githubusercontent.com/u/1483244?s=150&v=4)
 
@@ -185,7 +174,7 @@ Notable Projects:
 The "Developer Experience" team works on projects such as tools, or anything that helps people be productive with AssemblyScript.
 
 
-### Joshua Tenner
+**Joshua Tenner**
 
 [Github](https://github.com/jtenner)
 
@@ -198,7 +187,7 @@ Notable Articles:
 
 * [An AssemblyScript Primer for TypeScript Developers](https://dev.to/jtenner/an-assemblyscript-primer-for-typescript-developers-lf1)
 
-### Willem Wyndham
+**Willem Wyndham**
 
 ![Willem Wyndham Avatar](https://avatars0.githubusercontent.com/u/1483244?s=150&v=4)
 
@@ -209,7 +198,7 @@ Notable Projects:
 * [AssemblyScript University Course](http://www.cs.umd.edu/class/spring2019/cmsc388I/assemblyscript.html)
 * Contributor to [as-pect](https://github.com/jtenner/as-pect)
 
-### Bowen Wang
+**Bowen Wang**
 
 [Github](https://github.com/bowenwang1996)
 
